@@ -5,6 +5,6 @@ seaborn
 plotly
 ipywidgets
 ipython
-**ipykernel**
-**notebook**
+ipykernel
+notebook
 voila
