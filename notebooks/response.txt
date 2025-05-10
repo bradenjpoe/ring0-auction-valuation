@@ -1,0 +1,2347 @@
+<html class="notranslate" lang="en-us" translate="no" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head><script async="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js?hash=f8eb86b51960670e07a8818c5e9ae4ce"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.1&amp;appId=131856666853481&amp;autoLogAppEvents=1"></script><script async="" src="/luble-set-gaze-Starrelate-Macb-Sonne-Like-made-W"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="en-us" http-equiv="content-language"/>
+<meta content="notranslate" name="google"/>
+<title>Accelerate | 2021 Worldwide Sales Results - Stallion Register Online</title>
+<meta content="width=1024" name="viewport"/>
+<link href="//cdn.bloodhorse.com/stallion-register/styles/default.css" media="screen, print" rel="stylesheet" type="text/css"/>
+<link href="//cdn.bloodhorse.com/stallion-register/styles/print.css" media="print" rel="stylesheet" type="text/css"/>
+<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="screen" href="//cdn.bloodhorse.com/stallion-register/styles/ie7.css" />
+	<![endif]-->
+<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" media="screen" href="//cdn.bloodhorse.com/stallion-register/styles/ie6.css" />
+	<![endif]-->
+<link href="//cdn.bloodhorse.com/stallion-register/styles/jqm.css" rel="stylesheet"/>
+<link href="/stallion-register/Content/nouislider.min.css" rel="stylesheet"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.7/jquery.tools.min.js" type="text/javascript"></script>
+<script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="//cdn.bloodhorse.com/js/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			//        Search Box Label
+			if ($(".searchQuery").val() !== "") {
+				$(".searchLabel").hide();
+			}
+			$(".searchQuery").focus(function() {
+				if ($(this).val() == "") {
+					$(".searchLabel").fadeTo('fast', 0.5);
+				}
+			});
+			$(".searchQuery").keyup(function() {
+				$(".searchLabel").hide();
+			});
+			$(".searchQuery").blur(function() {
+				if ($(this).val() == "") {
+					$(".searchLabel").fadeTo('fast', 1);
+				}
+			});
+		});
+	</script>
+<script src="/stallion-register/Scripts/nouislider.min.js" type="text/javascript"></script>
+<script src="/stallion-register/Scripts/wNumb.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.7/jquery.tools.min.js"></script>
+<script type="text/javascript">
+        $(function () {
+            //Search Box Label
+            $(".searchQuery").focus(function () {
+                if ($(this).val() == "") {
+                    $(".searchLabel").fadeTo('fast', 0.5);
+                }
+            });
+            $(".searchQuery").keyup(function () {
+                $(".searchLabel").fadeTo('fast', 0);
+            });
+            $(".searchQuery").blur(function () {
+                if ($(this).val() == "") {
+                    $(".searchLabel").fadeTo('fast', 1);
+                }
+            });
+            //Apply zebra striping classes to tables
+            $('.altrow').addClass('odd');
+            /*$("table tbody tr:nth-child(odd)").addClass("odd");
+            $("table tbody tr:nth-child(even)").addClass("even");*/
+            //Tabs & Tooltips
+            $("ul.tabs").tabs("> div.tabPane");
+            $("[title]").tooltip({ position: 'center right' });
+        });
+    </script>
+<script src="https://ads.bloodhorse.com/js/libcode1_noajax.js" type="text/javascript"></script>
+<style data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget" type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82,82,82,.7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v4/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0px;margin:0px;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v4/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:white;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0,0,0,.4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0px 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267b2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:white;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v4/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v4/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body><iframe style="display: none;"></iframe>
+<div class="wrapper">
+<div class="pageHead">
+<div class="branding">
+<div class="printLogo">
+<img alt="" src="/stallion-register/Content/Images/SRO_white.gif"/></div>
+<div class="siteName">
+<a href="/stallion-register/">Stallion Register Online</a>
+</div>
+<div class="searchPanel">
+<form action="/stallion-register/SearchResults" method="post"> <label class="searchLabel">
+						Search over 2,700 stallions</label>
+<input class="searchQuery" name="Stallion" type="text"/>
+<input class="searchBtn" name="" type="submit" value="Search"/>
+</form> </div>
+</div>
+<div class="navigation primary">
+<ul>
+<li><a class="home" href="/stallion-register/">Home</a></li>
+<li><a href="/stallion-register/Admin/Login">Advertisers</a></li>
+<li><a href="/stallion-register/FreeListing">Free Listing</a></li>
+<li><a href="http://shop.bloodhorse.com/collections/stallion-register" target="_blank">Buy The Book</a></li>
+<li><a href="http://globalstallionsapp.com" target="_blank">Global Stallions App</a></li>
+</ul>
+</div>
+<div class="navigation secondary">
+<ul>
+<li><a href="https://www.bloodhorse.com" target="_blank">BloodHorse.com</a></li>
+<li><a href="http://www.truenicks.com" target="_blank">TrueNicks</a></li>
+<li><a href="http://edge.bloodhorse.com" target="_blank">Auction Edge</a></li>
+<li><a href="http://marketwatch.bloodhorse.com" target="_blank">MarketWatch</a></li>
+<li><a href="http://shop.bloodhorse.com/" target="_blank">Shop</a></li>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us" target="_blank">About Us</a></li>
+</ul>
+</div>
+</div>
+<div class="content">
+<div class="breadcrumb">
+<a class="home" href="/stallion-register/">Home</a>
+<span>&gt;</span>
+<a href="/stallion-register/stallions/170525/accelerate">Accelerate</a>
+<span>&gt;</span> 2021 Worldwide Sales Results
+</div>
+<div class="grid_0">
+<h2>Accelerate's Worldwide Sales Results for 2021</h2>
+<p>
+        Dams that are stakes winners are in <span class="stakeswinner">bold caps</span>.
+        * indicates that the dam is a stakes producer.
+    </p>
+<ul class="tabs">
+<li><a class="" href="#">Weanlings</a></li>
+<li><a class="" href="#">Yearlings</a></li>
+<li><a class="current" href="#">Covering Sire</a></li>
+</ul>
+<div class="contentBlock tabPane" style="display: none;">
+<div class="auctionsSummary">
+<ul>
+<li>2020 Stud Fee: $20,000</li>
+<li>2021 Foals: 95</li>
+<li>14 offered, 14 sold, $478,500 gross, $34,179 average, $33,000 median</li>
+<li>Colts: 9 sold, $31,056 avg</li>
+<li>Fillies: 5 sold, $39,800 avg</li>
+</ul>
+</div>
+<ul class="tabs">
+<li><a class="current" href="#">Northern Hemisphere</a></li>
+</ul>
+<div class="contentBlock tabPane" style="display: block;">
+<div class="auctionsSummary">
+<ul>
+<li>14 offered, 14 sold, $478,500 gross, $34,179 average, $33,000 median</li>
+<li>Colts: 9 sold, $31,056 avg</li>
+<li>Fillies: 5 sold, $39,800 avg</li>
+</ul>
+</div>
+<table>
+<thead>
+<tr>
+<th>Horse Name (YOB)</th>
+<th>Sex</th>
+<th>Dam, YOB</th>
+<th>Hip #</th>
+<th>Sale</th>
+<th>Consignor</th>
+<th>Buyer</th>
+<th>Price (RNA)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="altrow odd" valign="top">
+<td>                    Lilys Back, 2021
+</td>
+<td>F</td>
+<td>                    Afleet Lily, 2007
+</td>
+<td>1993</td>
+<td>KEENOV</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Barry Lamb
+</td>
+<td>$7,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Janssen, 2021
+</td>
+<td>C</td>
+<td>                    Fabuleux, 2016
+</td>
+<td>240</td>
+<td>FTNOCT</td>
+<td>Foggy Bottom Farm</td>
+<td>            Jose Munoz
+</td>
+<td>$7,500</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    UNNAMED, 2021
+</td>
+<td>F</td>
+<td>                    Graceful Witch, 2015
+</td>
+<td>2925</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Woodberry Payne, agent
+</td>
+<td>$37,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Northern Chill, 2021
+</td>
+<td>C</td>
+<td>                    Homesteader*, 2003
+</td>
+<td>1716</td>
+<td>KEENOV</td>
+<td>Bedouin Bloodstock</td>
+<td>            Back Country Holdings
+</td>
+<td>$60,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Wildcat Rye'd, 2021
+</td>
+<td>F</td>
+<td>                    Indian Wildcat, 2012
+</td>
+<td>2538</td>
+<td>KEENOV</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Sycamore
+</td>
+<td>$65,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Cowboy Walt, 2021
+</td>
+<td>C</td>
+<td>                    Miss Prytania, 2012
+</td>
+<td>2996</td>
+<td>KEENOV</td>
+<td>Vinery Sales</td>
+<td>            David Rodawalt
+</td>
+<td>$28,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Flying Flames, 2021
+</td>
+<td>C</td>
+<td>                    My Ekati Cat, 2014
+</td>
+<td>564</td>
+<td>KEENOV</td>
+<td>Frankfort Park Farm</td>
+<td>            Bruno De Berdt, agent
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Faster, 2021
+</td>
+<td>C</td>
+<td>                    Perfect Cause*, 2004
+</td>
+<td>1817</td>
+<td>KEENOV</td>
+<td>Warrendale Sales</td>
+<td>            Taproot Bloodstock, agent
+</td>
+<td>$75,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Exit to the Moon, 2021
+</td>
+<td>C</td>
+<td>                    Red Moon Girl, 2009
+</td>
+<td>1847</td>
+<td>KEENOV</td>
+<td>Threave Main Stud</td>
+<td>            Colin Brennan Bloodstock
+</td>
+<td>$29,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Savage Spirit, 2021
+</td>
+<td>C</td>
+<td>                    Scat's Lassie, 2009
+</td>
+<td>140</td>
+<td>FTNOCT</td>
+<td>Summerfield</td>
+<td>            SGO Thoroughbred
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Ocean Cruiser, 2021
+</td>
+<td>C</td>
+<td>                    Secret Congrats*, 2013
+</td>
+<td>1027</td>
+<td>KEENOV</td>
+<td>Elm Tree Farm</td>
+<td>            Big Oak Farm
+</td>
+<td>$5,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Gwanaksan Leo, 2021
+</td>
+<td>F</td>
+<td>                    So You Know*, 2013
+</td>
+<td>152</td>
+<td>FTNOCT</td>
+<td>Stuart Morris</td>
+<td>            Cicada Stable
+</td>
+<td>$50,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Gatubela, 2021
+</td>
+<td>F</td>
+<td>                    Spring Bloom, 2009
+</td>
+<td>665</td>
+<td>KEENOV</td>
+<td>Alliance Sales Agency</td>
+<td>            Glencrest Farm
+</td>
+<td>$40,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Don't Stop, 2021
+</td>
+<td>C</td>
+<td>                    Stop and Stare, 2014
+</td>
+<td>1490</td>
+<td>KEENOV</td>
+<td>Warrendale Sales</td>
+<td>            Calumet Farm
+</td>
+<td>$40,000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="contentBlock tabPane" style="display: none;">
+<div class="auctionsSummary">
+<ul>
+<li>2019 Stud Fee: $20,000</li>
+<li>2020 Foals: 127</li>
+<li>97 offered, 79 sold, $5,225,700 gross, $66,148 average, $35,000 median</li>
+<li>Colts: 42 sold, $72,679 avg</li>
+<li>Fillies: 37 sold, $58,735 avg</li>
+</ul>
+</div>
+<ul class="tabs">
+<li><a class="current" href="#">Northern Hemisphere</a></li>
+</ul>
+<div class="contentBlock tabPane" style="display: block;">
+<div class="auctionsSummary">
+<ul>
+<li>97 offered, 79 sold, $5,225,700 gross, $66,148 average, $35,000 median</li>
+<li>Colts: 42 sold, $72,679 avg</li>
+<li>Fillies: 37 sold, $58,735 avg</li>
+</ul>
+</div>
+<table>
+<thead>
+<tr>
+<th>Horse Name (YOB)</th>
+<th>Sex</th>
+<th>Dam, YOB</th>
+<th>Hip #</th>
+<th>Sale</th>
+<th>Consignor</th>
+<th>Buyer</th>
+<th>Price (RNA)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="altrow odd" valign="top">
+<td>                    Cabana Girl, 2020
+</td>
+<td>F</td>
+<td>                    Above the Crowd, 2014
+</td>
+<td>798</td>
+<td>FTKOCT</td>
+<td>Indian Creek</td>
+<td>            Medallion Farms, agent
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Royale Flare, 2020
+</td>
+<td>F</td>
+<td>                    American Queen*, 2005
+</td>
+<td>838</td>
+<td>FTKOCT</td>
+<td>Four Star Sales</td>
+<td>        na
+</td>
+<td>            ($120,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Fast Gal, 2020
+</td>
+<td>F</td>
+<td>                    Another Gal, 2014
+</td>
+<td>3026</td>
+<td>KEESEP</td>
+<td>Garrencasey Sales</td>
+<td>            Dale Romans, agent
+</td>
+<td>$40,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1281</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Garrencasey Sales</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($20,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    We Will Conquer, 2020
+</td>
+<td>C</td>
+<td>                    Aspiring*, 2004
+</td>
+<td>1765</td>
+<td>KEESEP</td>
+<td>Blandford Stud</td>
+<td>            de Broglio Racing, Atlas Bloodstock, agent
+</td>
+<td>$200,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">189</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Hill 'n' Dale Sales Agency</td>
+<td class="previousAuction">            Finn Bloodstock
+</td>
+<td class="previousAuction">$110,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    April Queen, 2020
+</td>
+<td>F</td>
+<td>                    Awe Hush*, 2008
+</td>
+<td>1392</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Blue River Bloodstock
+</td>
+<td>$60,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Super Accelerate, 2020
+</td>
+<td>C</td>
+<td>                    Bawlmer Hon*, 2013
+</td>
+<td>290</td>
+<td>FTMOCT</td>
+<td>Becky Davis</td>
+<td>            Roger Sterling
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Taltariate, 2020
+</td>
+<td>C</td>
+<td>                    Beat to Quarters, 2010
+</td>
+<td>507</td>
+<td>FTMOCT</td>
+<td>Indian Creek</td>
+<td>        na
+</td>
+<td>            ($9,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1298</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Lane's End</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($10,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    UNNAMED, 2020
+</td>
+<td>C</td>
+<td>                    Bel Citron, 2012
+</td>
+<td>539</td>
+<td>KEEJAN</td>
+<td>Four Star Sales</td>
+<td>            Dailey Bloodstock
+</td>
+<td>$10,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    UNNAMED, 2020
+</td>
+<td>C</td>
+<td>                    Bel Citron, 2012
+</td>
+<td>3446</td>
+<td>KEESEP</td>
+<td>Four Star Sales</td>
+<td>            Golden East Horse, Legacy Equine Group, agent
+</td>
+<td>$27,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">539</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">Four Star Sales</td>
+<td class="previousAuction">            Dailey Bloodstock
+</td>
+<td class="previousAuction">$10,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Catalena, 2020
+</td>
+<td>F</td>
+<td>                    Bode's Dream, 2014
+</td>
+<td>549</td>
+<td>KEEJAN</td>
+<td>Trackside Farm</td>
+<td>            Farm Ridge Stable
+</td>
+<td>$60,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Catalena, 2020
+</td>
+<td>F</td>
+<td>                    Bode's Dream, 2014
+</td>
+<td>2212</td>
+<td>KEESEP</td>
+<td>Denali Stud</td>
+<td>            Imaginary Stables/John Guarnere
+</td>
+<td>$35,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">549</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">Trackside Farm</td>
+<td class="previousAuction">            Farm Ridge Stable
+</td>
+<td class="previousAuction">$60,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Appalachian Trail, 2020
+</td>
+<td>F</td>
+<td>                    Burren Trail (IRE), 2010
+</td>
+<td>3058</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>        na
+</td>
+<td>            ($12,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Soul Accelerator, 2020
+</td>
+<td>C</td>
+<td> <strong>Butterfly Soul</strong>, 2010
+</td>
+<td>1795</td>
+<td>KEESEP</td>
+<td>South Point Sales Agency</td>
+<td>        na
+</td>
+<td>            ($20,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Talentum, 2020
+</td>
+<td>C</td>
+<td>                    Camielee*, 2009
+</td>
+<td>992</td>
+<td>FTKOCT</td>
+<td>Legacy Bloodstock</td>
+<td>            Hyde Park
+</td>
+<td>$31,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Dasmah, 2020
+</td>
+<td>F</td>
+<td>                    Casino Call, 2013
+</td>
+<td>3468</td>
+<td>KEESEP</td>
+<td>Serendipity Farm</td>
+<td>        na
+</td>
+<td>            ($9,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Norfie, 2020
+</td>
+<td>C</td>
+<td>                    Cat Walk, 2014
+</td>
+<td>3072</td>
+<td>KEESEP</td>
+<td>Mulholland Farm</td>
+<td>            Cal Rock
+</td>
+<td>$72,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Live Like Laura, 2020
+</td>
+<td>F</td>
+<td>                    Chipolina, 2015
+</td>
+<td>3476</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Twin Sports Racing, Oracle Bloodstock, agent
+</td>
+<td>$13,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Accelerating Babe, 2020
+</td>
+<td>F</td>
+<td> <strong>Ciao Bella Luna</strong>, 2010
+</td>
+<td>7</td>
+<td>FTKJUL</td>
+<td>Clarkland Farm</td>
+<td>            Susan Moulton, agent
+</td>
+<td>$25,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">949</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Clarkland Farm</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($37,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Racethroughthecity, 2020
+</td>
+<td>F</td>
+<td>                    City Siren*, 2013
+</td>
+<td>3081</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            James DiVito, agent
+</td>
+<td>$60,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Plus Power, 2020
+</td>
+<td>F</td>
+<td> <strong>Cool Spell*</strong>, 2002
+</td>
+<td>966</td>
+<td>KEEJAN</td>
+<td>Taylor Made Sales Agency, agent</td>
+<td>            Kinga Farm
+</td>
+<td>$10,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Plus Power, 2020
+</td>
+<td>F</td>
+<td> <strong>Cool Spell*</strong>, 2002
+</td>
+<td>105</td>
+<td>OBSOCT</td>
+<td>Abbie Road Farm</td>
+<td>            Hunsicker Equine Associates, LLC.
+</td>
+<td>$30,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">966</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">Taylor Made Sales Agency, agent</td>
+<td class="previousAuction">            Kinga Farm
+</td>
+<td class="previousAuction">$10,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Floor It, 2020
+</td>
+<td>C</td>
+<td>                    Crystal Minuet*, 2004
+</td>
+<td>1100</td>
+<td>FTKOCT</td>
+<td>Ledgelands</td>
+<td>            Anthony Tate
+</td>
+<td>$21,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Coal's Magnolia, 2020
+</td>
+<td>F</td>
+<td> <strong>Crysta's Court</strong>, 2010
+</td>
+<td>1101</td>
+<td>FTKOCT</td>
+<td>Lane's End</td>
+<td>        na
+</td>
+<td>            ($47,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Hey Cue, 2020
+</td>
+<td>C</td>
+<td> <strong>Cumulonimble*</strong>, 2006
+</td>
+<td>669</td>
+<td>KEESEP</td>
+<td>Castle Park Farm</td>
+<td>        na
+</td>
+<td>            ($95,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Accelerina, 2020
+</td>
+<td>F</td>
+<td>                    Delay of Game, 2012
+</td>
+<td>385</td>
+<td>FTNAUG</td>
+<td>St George Sales</td>
+<td>            David Ingordo
+</td>
+<td>$335,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Delta Rising, 2020
+</td>
+<td>C</td>
+<td>                    Delta Girl, 2012
+</td>
+<td>109</td>
+<td>OBSOCT</td>
+<td>Kinsman Farm</td>
+<td>            Ralph Nicks
+</td>
+<td>$30,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Vinny the Coin, 2020
+</td>
+<td>C</td>
+<td>                    Discovery Bay, 2014
+</td>
+<td>13</td>
+<td>FTKJUL</td>
+<td>Frankfort Park Farm</td>
+<td>            Singh &amp; Partners, Classic, agent
+</td>
+<td>$60,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">155</td>
+<td class="previousAuction">FTKNOV</td>
+<td class="previousAuction">Frankfort Park Farm</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($27,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Gingersnap Jack, 2020
+</td>
+<td>C</td>
+<td>                    Dixie Unioness, 2006
+</td>
+<td>1859</td>
+<td>KEESEP</td>
+<td>Rosilyn Polan</td>
+<td>            Redwings
+</td>
+<td>$130,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Bold Arrow, 2020
+</td>
+<td>C</td>
+<td>                    Faith in Me, 2006
+</td>
+<td>1229</td>
+<td>FTKOCT</td>
+<td>Summerfield</td>
+<td>            Equus Thoroughbreds
+</td>
+<td>$23,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Three On the Tree, 2020
+</td>
+<td>C</td>
+<td>                    Fantasy of Luck, 2013
+</td>
+<td>197</td>
+<td>TEXAUG</td>
+<td>Stuart Morris</td>
+<td>        na
+</td>
+<td>            (na)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Looking for Flare, 2020
+</td>
+<td>F</td>
+<td>                    Flare Miss, 2011
+</td>
+<td>443</td>
+<td>FTKFEB</td>
+<td>Mulholland Springs</td>
+<td>            Leo S. Nechamkin II
+</td>
+<td>$6,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Old School Flash, 2020
+</td>
+<td>F</td>
+<td>                    Flash of Wonder*, 2013
+</td>
+<td>2294</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Parrish Farms, agent
+</td>
+<td>$47,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Run Cory Run, 2020
+</td>
+<td>C</td>
+<td>                    Frere Pilgrim, 2009
+</td>
+<td>2720</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Gentry Farms
+</td>
+<td>$32,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Musicmansandy, 2020
+</td>
+<td>F</td>
+<td>                    Full Moon Frolic, 2008
+</td>
+<td>2721</td>
+<td>KEESEP</td>
+<td>James M. Herbener Jr.</td>
+<td>            Elusive Thoroughbreds
+</td>
+<td>$160,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Nickey Bird, 2020
+</td>
+<td>C</td>
+<td>                    Girl Downstairs, 2012
+</td>
+<td>209</td>
+<td>FTCSEP</td>
+<td>Havens Bloodstock Agency</td>
+<td>            Larry Odbert
+</td>
+<td>$2,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Sassysand, 2020
+</td>
+<td>F</td>
+<td>                    Glinting, 2010
+</td>
+<td>3541</td>
+<td>KEESEP</td>
+<td>Cross Keys Sales</td>
+<td>            Valle Las Palmas/Jose Zulaica
+</td>
+<td>$7,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Mind Flayer, 2020
+</td>
+<td>C</td>
+<td>                    Gracewood, 2011
+</td>
+<td>266</td>
+<td>KEEJAN</td>
+<td>Taylor Made Sales Agency, agent</td>
+<td>            George Iacovacci
+</td>
+<td>$2,500</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Hurry Hurry, 2020
+</td>
+<td>C</td>
+<td>                    Grassy Nellie*, 2005
+</td>
+<td>727</td>
+<td>KEESEP</td>
+<td>Garrencasey Sales</td>
+<td>            BSW/Crow Colts Group
+</td>
+<td>$90,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">273</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Garrencasey Sales</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($70,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Miss Accelerate, 2020
+</td>
+<td>F</td>
+<td>                    Harlotry Holiday*, 2009
+</td>
+<td>28</td>
+<td>FTKJUL</td>
+<td>KatieRich Farms</td>
+<td>            New Horizon Farm
+</td>
+<td>$25,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Valuable Cargo, 2020
+</td>
+<td>C</td>
+<td>                    Her Latest Film, 2015
+</td>
+<td>3803</td>
+<td>KEESEP</td>
+<td>Lane's End</td>
+<td>            Randy Finegan
+</td>
+<td>$21,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Reagan, 2020
+</td>
+<td>C</td>
+<td>                    History Supreme, 2015
+</td>
+<td>181</td>
+<td>FTKJUL</td>
+<td>Burleson Farms</td>
+<td>            Al Pike, agent
+</td>
+<td>$150,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    For Harper, 2020
+</td>
+<td>F</td>
+<td>                    Holdontoyourdream*, 2006
+</td>
+<td>130</td>
+<td>OBSOCT</td>
+<td>Clear Creek Stud</td>
+<td>        na
+</td>
+<td>            ($35,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    El Contador, 2020
+</td>
+<td>C</td>
+<td>                    I Dazzle, 2008
+</td>
+<td>1439</td>
+<td>KEEJAN</td>
+<td>James B. Keogh</td>
+<td>            Pewter Stable
+</td>
+<td>$10,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    El Contador, 2020
+</td>
+<td>C</td>
+<td>                    I Dazzle, 2008
+</td>
+<td>1400</td>
+<td>FTKOCT</td>
+<td>Hill 'n' Dale Sales Agency</td>
+<td>            Arcadio Escamilla
+</td>
+<td>$21,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">1439</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">James B. Keogh</td>
+<td class="previousAuction">            Pewter Stable
+</td>
+<td class="previousAuction">$10,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Union Express, 2020
+</td>
+<td>C</td>
+<td>                    I'm a Flake*, 2008
+</td>
+<td>3</td>
+<td>KEESEP</td>
+<td>Dixiana Farms</td>
+<td>            Mayberry Farm
+</td>
+<td>$300,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Silver Phantom, 2020
+</td>
+<td>C</td>
+<td>                    Impazibly Fleet, 2014
+</td>
+<td>445</td>
+<td>FTMOCT</td>
+<td>Foxbrook Thoroughbreds</td>
+<td>        na
+</td>
+<td>            ($38,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Cosmic Rewind, 2020
+</td>
+<td>F</td>
+<td>                    In a Cloud*, 2010
+</td>
+<td>561</td>
+<td>OBSOCT</td>
+<td>Cruzin' Thoroughbreds</td>
+<td>        na
+</td>
+<td>            ($11,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1835</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Lane's End</td>
+<td class="previousAuction">            Safire Stables
+</td>
+<td class="previousAuction">$12,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Stayinyourlane, 2020
+</td>
+<td>C</td>
+<td>                    Infraction, 2015
+</td>
+<td>2347</td>
+<td>KEESEP</td>
+<td>Burleson Farms</td>
+<td>        na
+</td>
+<td>            ($45,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Lady Irvine, 2020
+</td>
+<td>F</td>
+<td>                    Joyeria, 2013
+</td>
+<td>764</td>
+<td>KEESEP</td>
+<td>Paramount Sales</td>
+<td>            Amo Racing
+</td>
+<td>$130,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">314</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Vinery Sales</td>
+<td class="previousAuction">            Rascal Racing
+</td>
+<td class="previousAuction">$95,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    UNNAMED, 2020
+</td>
+<td>C</td>
+<td>                    Kuna, 2016
+</td>
+<td>1066</td>
+<td>KEEJAN</td>
+<td>Denali Stud</td>
+<td>            Billy J. Parker
+</td>
+<td>$2,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    UNNAMED, 2020
+</td>
+<td>C</td>
+<td>                    Kuna, 2016
+</td>
+<td>3194</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Cruz Racing Stable
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">1066</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">Denali Stud</td>
+<td class="previousAuction">            Billy J. Parker
+</td>
+<td class="previousAuction">$2,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Leftembehind, 2020
+</td>
+<td>C</td>
+<td>                    Late 'n Left, 2013
+</td>
+<td>460</td>
+<td>FTNAUG</td>
+<td>Four Star Sales</td>
+<td>            Jack Knowlton For Sackatoga Stable
+</td>
+<td>$130,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1063</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Bill Murphy</td>
+<td class="previousAuction">            Bella Inizio Farm, agent
+</td>
+<td class="previousAuction">$45,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Alice Kramden, 2020
+</td>
+<td>F</td>
+<td>                    Laudation, 2015
+</td>
+<td>1132</td>
+<td>KEESEP</td>
+<td>Eaton Sales</td>
+<td>            Joe Hardoon, agent
+</td>
+<td>$200,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1468</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Bedouin Bloodstock</td>
+<td class="previousAuction">            Newday Training Center
+</td>
+<td class="previousAuction">$75,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    High Gear, 2020
+</td>
+<td>C</td>
+<td>                    Lemon Drop Blossom, 2009
+</td>
+<td>1530</td>
+<td>FTKOCT</td>
+<td>Bill Murphy</td>
+<td>            Nelson McMakin
+</td>
+<td>$22,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Halucinogenie, 2020
+</td>
+<td>C</td>
+<td>                    Love the Chase*, 2006
+</td>
+<td>1971</td>
+<td>KEESEP</td>
+<td>Bedouin Bloodstock</td>
+<td>            Powerstown Stud
+</td>
+<td>$62,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Antonov, 2020
+</td>
+<td>C</td>
+<td>                    Lovely Daughter, 2010
+</td>
+<td>211</td>
+<td>FTKJUL</td>
+<td>St George Sales</td>
+<td>            Limitless Thoroughbred
+</td>
+<td>$10,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Lookin At Maggie, 2020
+</td>
+<td>F</td>
+<td>                    Maggie McGowan*, 2008
+</td>
+<td>1975</td>
+<td>KEESEP</td>
+<td>Bedouin Bloodstock</td>
+<td>            Whetstone Farm
+</td>
+<td>$160,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Taxiing, 2020
+</td>
+<td>F</td>
+<td>                    Majestique, 2010
+</td>
+<td>17</td>
+<td>FTKOCT</td>
+<td>Buckland Sales</td>
+<td>            Meadowview Stables
+</td>
+<td>$23,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Hello Marylou, 2020
+</td>
+<td>F</td>
+<td>                    Marycasey, 2011
+</td>
+<td>13</td>
+<td>FTKFEB</td>
+<td>Denali Stud</td>
+<td>            Coldsneck Racing
+</td>
+<td>$2,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Papapa, 2020
+</td>
+<td>C</td>
+<td>                    Maxinkuckee Miss*, 2006
+</td>
+<td>2820</td>
+<td>KEESEP</td>
+<td>Claiborne Farm</td>
+<td>            Jose Miguel Aleman
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Akiva, 2020
+</td>
+<td>F</td>
+<td>                    Meiann, 2008
+</td>
+<td>39</td>
+<td>FTKOCT</td>
+<td>Mulholland Springs</td>
+<td>            James K. Chapman Racing
+</td>
+<td>$3,200</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Accelerate Judy, 2020
+</td>
+<td>F</td>
+<td>                    Merryland Monroe*, 2003
+</td>
+<td>2824</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Jeffry and Julie Puryear
+</td>
+<td>$30,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Awesome Aunt Penny, 2020
+</td>
+<td>F</td>
+<td>                    Miss May, 2006
+</td>
+<td>2833</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            William Perkins
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    I Got a Guy, 2020
+</td>
+<td>C</td>
+<td>                    Missy's Advantage*, 2003
+</td>
+<td>1177</td>
+<td>KEESEP</td>
+<td>Eaton Sales</td>
+<td>            John Castillo
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    UNNAMED, 2020
+</td>
+<td>C</td>
+<td>                    Moon's Prospect*, 2009
+</td>
+<td>93</td>
+<td>FTKOCT</td>
+<td>Paramount Sales</td>
+<td>            Yeomanstown Stud
+</td>
+<td>$35,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Rosemead, 2020
+</td>
+<td>F</td>
+<td>                    Mystic Mama*, 2009
+</td>
+<td>1195</td>
+<td>KEESEP</td>
+<td>Scott Mallory</td>
+<td>            Martin Anthony
+</td>
+<td>$225,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">746</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Elm Tree Farm</td>
+<td class="previousAuction">            Buena Madera
+</td>
+<td class="previousAuction">$140,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Adorian, 2020
+</td>
+<td>C</td>
+<td>                    Onestaratatime, 2013
+</td>
+<td>479</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>        na
+</td>
+<td>            ($145,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">380</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Moreau Bloodstock</td>
+<td class="previousAuction">            Beryl N. Stokes Jr.
+</td>
+<td class="previousAuction">$110,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    True Queen, 2020
+</td>
+<td>F</td>
+<td>                    Ostourah, 2010
+</td>
+<td>767</td>
+<td>KEEJAN</td>
+<td>Stuart Morris</td>
+<td>            Sabrina Moore
+</td>
+<td>$25,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    True Queen, 2020
+</td>
+<td>F</td>
+<td>                    Ostourah, 2010
+</td>
+<td>179</td>
+<td>FTKOCT</td>
+<td>Four Star Sales</td>
+<td>            Orlando Rose
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">767</td>
+<td class="previousAuction">KEEJAN</td>
+<td class="previousAuction">Stuart Morris</td>
+<td class="previousAuction">            Sabrina Moore
+</td>
+<td class="previousAuction">$25,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Cacciatore, 2020
+</td>
+<td>C</td>
+<td>                    Paddy's Flight, 2013
+</td>
+<td>36</td>
+<td>OBSOCT</td>
+<td>Perrone Sales</td>
+<td>            Flying Horses Investment Group
+</td>
+<td>$50,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    First to Last, 2020
+</td>
+<td>C</td>
+<td> <strong>Pool Land*</strong>, 2002
+</td>
+<td>494</td>
+<td>KEESEP</td>
+<td>Bedouin Bloodstock</td>
+<td>            Repole Stable &amp; St. Elias, West Bloodstock, agent
+</td>
+<td>$175,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">779</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Bedouin Bloodstock</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($95,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Driven by Pressure, 2020
+</td>
+<td>C</td>
+<td>                    Quintile, 2010
+</td>
+<td>1234</td>
+<td>KEESEP</td>
+<td>Nursery Place</td>
+<td>            Repole Stable &amp; St. Elias, West Bloodstock, agent
+</td>
+<td>$160,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Acceleray, 2020
+</td>
+<td>C</td>
+<td>                    Rayella, 2013
+</td>
+<td>2042</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Mike Pender, agent
+</td>
+<td>$45,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Margham, 2020
+</td>
+<td>C</td>
+<td>                    Rubytheheartstealr, 2011
+</td>
+<td>2899</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Byron Rogers/Star Bloodstock
+</td>
+<td>$72,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Jor El, 2020
+</td>
+<td>C</td>
+<td>                    Sara's Cape, 2009
+</td>
+<td>2500</td>
+<td>KEESEP</td>
+<td>Stone Farm</td>
+<td>        na
+</td>
+<td>            ($19,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Credit Committee, 2020
+</td>
+<td>F</td>
+<td>                    Sitka Song, 2010
+</td>
+<td>542</td>
+<td>KEESEP</td>
+<td></td>
+<td>            Madras Bloodstock
+</td>
+<td>$50,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Lucky Phoenix, 2020
+</td>
+<td>F</td>
+<td>                    Sleepless Dixie, 2008
+</td>
+<td>1277</td>
+<td>KEESEP</td>
+<td>Clarkland Farm</td>
+<td>            Terrell S. Frey
+</td>
+<td>$35,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Lady Fortuna, 2020
+</td>
+<td>F</td>
+<td>                    Solar Vortex, 2015
+</td>
+<td>153</td>
+<td>FTMOCT</td>
+<td>Turning Point Bloodstock</td>
+<td>            Wazuzu Racing
+</td>
+<td>$65,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Touch of Madness, 2020
+</td>
+<td>F</td>
+<td>                    Solved*, 2011
+</td>
+<td>64</td>
+<td>OBSOCT</td>
+<td>Journeyman Bloodstock Services</td>
+<td>        na
+</td>
+<td>            ($57,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Universal Gangster, 2020
+</td>
+<td>C</td>
+<td>                    Special Thing, 2015
+</td>
+<td>485</td>
+<td>FTKOCT</td>
+<td>Taylor Made Sales Agency</td>
+<td>        na
+</td>
+<td>            ($15,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Electric Glide, 2020
+</td>
+<td>F</td>
+<td>                    Spun Silver*, 2006
+</td>
+<td>2101</td>
+<td>KEESEP</td>
+<td>Sally Thomas</td>
+<td>            Albert Davis
+</td>
+<td>$80,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Exponential Star, 2020
+</td>
+<td>F</td>
+<td>                    Star Number*, 2000
+</td>
+<td>2105</td>
+<td>KEESEP</td>
+<td>Eaton Sales</td>
+<td>            Dark Star Thoroughbreds
+</td>
+<td>$30,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Grand Arrow, 2020
+</td>
+<td>F</td>
+<td>                    Street Surprise, 2009
+</td>
+<td>3358</td>
+<td>KEESEP</td>
+<td>Mulholland Springs</td>
+<td>            David Geofroy
+</td>
+<td>$50,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    On Pole, 2020
+</td>
+<td>C</td>
+<td>                    Sweet Congrats, 2015
+</td>
+<td>3365</td>
+<td>KEESEP</td>
+<td>Warrendale Sales</td>
+<td>            West Point Thoroughbreds
+</td>
+<td>$80,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Paradise Drive, 2020
+</td>
+<td>C</td>
+<td>                    Tales of Paradise*, 2009
+</td>
+<td>87</td>
+<td>FTKJUL</td>
+<td>Foundations Farm</td>
+<td>        na
+</td>
+<td>            ($60,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Paradise Drive, 2020
+</td>
+<td>C</td>
+<td>                    Tales of Paradise*, 2009
+</td>
+<td>593</td>
+<td>FTKOCT</td>
+<td>Foundations Farm</td>
+<td>            Boca Stables
+</td>
+<td>$57,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2021 Yearling)</td>
+<td class="previousAuction">87</td>
+<td class="previousAuction">FTKJUL</td>
+<td class="previousAuction">Foundations Farm</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($60,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Dromoland, 2020
+</td>
+<td>C</td>
+<td>                    Ten Halos*, 2003
+</td>
+<td>591</td>
+<td>FTNAUG</td>
+<td>Paramount Sales</td>
+<td>            David Stack
+</td>
+<td>$300,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">855</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Hunter Valley Farm</td>
+<td class="previousAuction">        na
+</td>
+<td class="previousAuction">            ($100,000)
+</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Winters Lion, 2020
+</td>
+<td>C</td>
+<td>                    This Girl Rocks*, 2005
+</td>
+<td>2974</td>
+<td>KEESEP</td>
+<td>Equest Thoroughbreds</td>
+<td>            Calumet Farm
+</td>
+<td>$35,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1230</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Buckland Sales</td>
+<td class="previousAuction">            Equest Thoroughbreds
+</td>
+<td class="previousAuction">$27,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Shiftinggears, 2020
+</td>
+<td>C</td>
+<td>                    Thundering Emilia*, 2006
+</td>
+<td>2135</td>
+<td>KEESEP</td>
+<td>Taylor Made Sales Agency</td>
+<td>            Mike Whieldon, Tom McCrocklin, agent
+</td>
+<td>$125,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Bay Fury, 2020
+</td>
+<td>F</td>
+<td>                    Top Spin, 2011
+</td>
+<td>3387</td>
+<td>KEESEP</td>
+<td>Four Star Sales</td>
+<td>            AVK Bloodstock
+</td>
+<td>$12,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1239</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">James B. Keogh</td>
+<td class="previousAuction">            Glencrest Farm
+</td>
+<td class="previousAuction">$25,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Mandavlee Warrior, 2020
+</td>
+<td>C</td>
+<td>                    Town Flirt, 2008
+</td>
+<td>92</td>
+<td>FTKJUL</td>
+<td>KatieRich Farms</td>
+<td>            Dry Fly Stable
+</td>
+<td>$40,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Quickening, 2020
+</td>
+<td>C</td>
+<td> <strong>True Way of Grace*</strong>, 2008
+</td>
+<td>2146</td>
+<td>KEESEP</td>
+<td>Baccari Bloodstock</td>
+<td>            Breeze Easy
+</td>
+<td>$190,000</td>
+</tr>
+<tr class="">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1242</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Lane's End</td>
+<td class="previousAuction">            Libre Bloodstock
+</td>
+<td class="previousAuction">$90,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Accel Rose, 2020
+</td>
+<td>F</td>
+<td>                    Unforgiving*, 2010
+</td>
+<td>2154</td>
+<td>KEESEP</td>
+<td>Lane's End</td>
+<td>            Eric Antonio Delvalle
+</td>
+<td>$45,000</td>
+</tr>
+<tr class="altrow odd">
+<td class="previousAuction" colspan="3">Previous Sale (2020 Weanling)</td>
+<td class="previousAuction">1645</td>
+<td class="previousAuction">KEENOV</td>
+<td class="previousAuction">Paramount Sales</td>
+<td class="previousAuction">            Chasing Roses Farm
+</td>
+<td class="previousAuction">$52,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Turn of Fortune, 2020
+</td>
+<td>F</td>
+<td>                    Virginia Hill, 2012
+</td>
+<td>3402</td>
+<td>KEESEP</td>
+<td>Warrendale Sales</td>
+<td>            Chris Randall
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Motorcade, 2020
+</td>
+<td>C</td>
+<td>                    West Coast Chick, 2011
+</td>
+<td>95</td>
+<td>FTKJUL</td>
+<td>Lane's End</td>
+<td>            David Ingordo
+</td>
+<td>$150,000</td>
+</tr>
+<tr class="" valign="top">
+<td>                    Delaney's Grace, 2020
+</td>
+<td>F</td>
+<td>                    Whenislifeaholiday, 2008
+</td>
+<td>750</td>
+<td>FTKOCT</td>
+<td>Gunsmoke Farm</td>
+<td>        na
+</td>
+<td>            ($29,000)
+</td>
+</tr>
+<tr class="altrow odd" valign="top">
+<td>                    Flag to Flag, 2020
+</td>
+<td>F</td>
+<td>                    Win Crafty, 2011
+</td>
+<td>98</td>
+<td>FTKJUL</td>
+<td>Buckland Sales</td>
+<td>            September Farm, Rodolphe Brisset, agent
+</td>
+<td>$25,000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="contentBlock tabPane" style="display: block;">
+<div class="auctionsSummary">
+<ul>
+<li>2021 Stud Fee: $17,500</li>
+<li>23 offered, 18 sold, $269,500 gross, $14,972 average, $15,000 median</li>
+<li>Fillies: 18 sold, $14,972 avg</li>
+</ul>
+</div>
+<ul class="tabs">
+<li><a class="current" href="#">Northern Hemisphere</a></li>
+</ul>
+<div class="contentBlock tabPane" style="display: block;">
+<div class="auctionsSummary">
+<ul>
+<li>23 offered, 18 sold, $269,500 gross, $14,972 average, $15,000 median</li>
+<li>Fillies: 18 sold, $14,972 avg</li>
+</ul>
+</div>
+<table>
+<thead>
+<tr>
+<th>Broodmare (YOB)</th>
+<th>Sire</th>
+<th>Dam, YOB</th>
+<th>Hip #</th>
+<th>Sale</th>
+<th>Consignor</th>
+<th>Buyer</th>
+<th>Price (RNA)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="altrow odd">
+<td>                    Academy Street, 2017
+</td>
+<td> <strong>Hard Spun*</strong>, 2004
+</td>
+<td>                    Abbey Street, 2010
+</td>
+<td>906</td>
+<td>KEEJAN</td>
+<td>Vinery Sales</td>
+<td>            Andy Simoff
+</td>
+<td>$11,000</td>
+</tr>
+<tr class="">
+<td>                    Acapella, 2013
+</td>
+<td> <strong>Majestic Warrior*</strong>, 2005
+</td>
+<td>                    Kettle's Sister*, 2004
+</td>
+<td>513</td>
+<td>KEEJAN</td>
+<td>Warrendale Sales</td>
+<td>        na
+</td>
+<td>            ($19,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Coastal Dawn, 2011
+</td>
+<td> <strong>Giant's Causeway*</strong>, 1997
+</td>
+<td> <strong>Dancethruthedawn</strong>, 1998
+</td>
+<td>572</td>
+<td>KEEJAN</td>
+<td>Sam-Son Farm</td>
+<td>            Chris Nolan
+</td>
+<td>$33,000</td>
+</tr>
+<tr class="">
+<td>                    Come Follow Me, 2015
+</td>
+<td> <strong>Eskendereya*</strong>, 2007
+</td>
+<td>                    Champagne Royale*, 2001
+</td>
+<td>1194</td>
+<td>KEENOV</td>
+<td>Four Star Sales</td>
+<td>        na
+</td>
+<td>            ($60,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Dr Winn Kyi, 2013
+</td>
+<td> <strong>Fort Prado*</strong>, 2001
+</td>
+<td>                    Royal Livy*, 1995
+</td>
+<td>222</td>
+<td>KEEJAN</td>
+<td>Legacy Bloodstock</td>
+<td>            Ponder Hill
+</td>
+<td>$25,000</td>
+</tr>
+<tr class="">
+<td>                    Egyptian Magic*, 2012
+</td>
+<td> <strong>Eskendereya*</strong>, 2007
+</td>
+<td>                    Danzig's Dreamer*, 1998
+</td>
+<td>2083</td>
+<td>KEENOV</td>
+<td>Buckland Sales</td>
+<td>            M. Resat Akkan
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Ficanas (GB), 2015
+</td>
+<td> <strong>Sepoy (AUS)*</strong>, 2008
+</td>
+<td>                    Windermere Island (GB)*, 2002
+</td>
+<td>2896</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Michael J. Hund
+</td>
+<td>$10,000</td>
+</tr>
+<tr class="">
+<td>                    Finial, 2016
+</td>
+<td> <strong>First Samurai*</strong>, 2003
+</td>
+<td>                    Fleuron*, 2003
+</td>
+<td>2484</td>
+<td>KEENOV</td>
+<td>Warrendale Sales</td>
+<td>        na
+</td>
+<td>            ($25,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Highwayormyway, 2012
+</td>
+<td> <strong>Giant's Causeway*</strong>, 1997
+</td>
+<td>                    Manaahil*, 2007
+</td>
+<td>897</td>
+<td>KEENOV</td>
+<td>Patricia Clark</td>
+<td>        na
+</td>
+<td>            ($20,000)
+</td>
+</tr>
+<tr class="">
+<td>                    Hope Rules, 2010
+</td>
+<td> <strong>Sky Mesa*</strong>, 2000
+</td>
+<td>                    Fun Crowd*, 1993
+</td>
+<td>1720</td>
+<td>KEENOV</td>
+<td>Ashview Farm</td>
+<td>            Potrero Los Llanos
+</td>
+<td>$16,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Infatuated, 2012
+</td>
+<td> <strong>More Than Ready*</strong>, 1997
+</td>
+<td> <strong>He Loves Me</strong>, 2001
+</td>
+<td>662</td>
+<td>KEEJAN</td>
+<td>Paramount Sales</td>
+<td>            Cowboy Stables, Lauren Morgan, agent
+</td>
+<td>$18,000</td>
+</tr>
+<tr class="">
+<td>                    Lotta Ott, 2017
+</td>
+<td> <strong>Tapiture*</strong>, 2011
+</td>
+<td>                    Lil Precious*, 2007
+</td>
+<td>2973</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            K.O.I.D.
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Mighty Katherine, 2011
+</td>
+<td> <strong>Seeking the Dia*</strong>, 2001
+</td>
+<td>                    Mighty Renee*, 2004
+</td>
+<td>2992</td>
+<td>KEENOV</td>
+<td>Lantern Hill Farm</td>
+<td>            Annette Lindstrom
+</td>
+<td>$7,000</td>
+</tr>
+<tr class="">
+<td>                    Miss Prytania, 2012
+</td>
+<td> <strong>Eskendereya*</strong>, 2007
+</td>
+<td>                    Brisquette*, 1998
+</td>
+<td>25</td>
+<td>FTKFEB</td>
+<td>Vinery Sales</td>
+<td>        na
+</td>
+<td>            ($45,000)
+</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Navetta, 2016
+</td>
+<td> <strong>Uncaptured*</strong>, 2010
+</td>
+<td>                    Mine Legend, 2009
+</td>
+<td>3011</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Michael J. Hund
+</td>
+<td>$20,000</td>
+</tr>
+<tr class="">
+<td>                    Regal Song, 2018
+</td>
+<td> <strong>Noble Mission (GB)*</strong>, 2009
+</td>
+<td>                    Make Music, 2009
+</td>
+<td>2664</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Luis E. Seglin
+</td>
+<td>$7,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Royal Septor, 2007
+</td>
+<td> <strong>Distorted Humor*</strong>, 1993
+</td>
+<td> <strong>Seven Four Seven*</strong>, 1998
+</td>
+<td>2264</td>
+<td>KEENOV</td>
+<td>Eaton Sales</td>
+<td>            Fairytail Farms
+</td>
+<td>$7,000</td>
+</tr>
+<tr class="">
+<td>                    Shady Shady Shady, 2016
+</td>
+<td> <strong>Hat Trick (JPN)*</strong>, 2001
+</td>
+<td>                    Shea Darby*, 2010
+</td>
+<td>2282</td>
+<td>KEENOV</td>
+<td>Indian Creek</td>
+<td>            Potrero Los Llanos
+</td>
+<td>$9,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Starr Bear, 2014
+</td>
+<td> <strong>Broken Vow*</strong>, 1997
+</td>
+<td>                    Aidan*, 2005
+</td>
+<td>667</td>
+<td>KEENOV</td>
+<td>Eaton Sales</td>
+<td>            Slam Dunk Racing
+</td>
+<td>$17,000</td>
+</tr>
+<tr class="">
+<td>                    Strawberry Flash*, 2008
+</td>
+<td> <strong>Alphabet Soup*</strong>, 1991
+</td>
+<td>                    Starlits Flash, 2003
+</td>
+<td>1266</td>
+<td>KEEJAN</td>
+<td>Lane's End</td>
+<td>            Barry Arnason, Cole Bennett, agent
+</td>
+<td>$17,000</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Timeless Beauty, 2015
+</td>
+<td> <strong>New Year's Day*</strong>, 2011
+</td>
+<td>                    Timezone*, 2007
+</td>
+<td>39</td>
+<td>FTNOCT</td>
+<td>Sequel New York</td>
+<td>            Willow Brook Stables, agent
+</td>
+<td>$15,000</td>
+</tr>
+<tr class="">
+<td> <strong>True Way of Grace*</strong>, 2008
+</td>
+<td> <strong>Yes It's True*</strong>, 1996
+</td>
+<td>                    Evil's Causeway*, 2003
+</td>
+<td>1958</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Tony Holmes
+</td>
+<td>$7,500</td>
+</tr>
+<tr class="altrow odd">
+<td>                    Yesshewill, 2012
+</td>
+<td> <strong>Giant's Causeway*</strong>, 1997
+</td>
+<td>                    Wilshewed*, 1999
+</td>
+<td>1989</td>
+<td>KEENOV</td>
+<td>Lane's End</td>
+<td>            Wasabi Ventures Stallions, Housatonic Bloodstock, agent
+</td>
+<td>$20,000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="pageFoot">
+<div class="contentBlock">
+<h4>
+            Additional Sites</h4>
+<ul>
+<li><a href="https://www.bloodhorse.com/" target="_blank">BloodHorse.com</a></li>
+<li><a href="http://edge.bloodhorse.com" target="_blank">Auction Edge</a></li>
+<li><a href="http://www.truenicks.com" target="_blank">TrueNicks</a></li>
+<li><a href="http://shop.bloodhorse.com/" target="_blank">Shop</a></li>
+</ul>
+</div>
+<div class="contentBlock">
+<h4>
+            Customer Service</h4>
+<ul>
+<li><a href="https://www.bloodhorse.com/horse-racing/newsletters/sign-up?source=footer" target="_blank">
+                Email Preferences</a></li>
+<li><a href="https://www.bloodhorse.com/subscribe" target="_blank">Subscribe</a></li>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us/contact-us" rel="nofollow" target="_blank">
+                Contact Us</a></li>
+</ul>
+</div>
+<div class="contentBlock">
+<h4>
+            About Us</h4>
+<ul>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us/advertising" target="_blank">Advertising</a></li>
+<li><a href="https://www.bloodhorse.com/pdf/mediakit/The-Blood-Horse-Media-Kit.pdf" rel="nofollow" target="_blank">Media
+                Kit</a></li>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us/editorial" target="_blank">Editorial Staff</a></li>
+<li><a href="http://cs.bloodhorse.com/blogs/blood-horse-press-room/default.aspx" target="_blank">Press
+                Room</a></li>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us/terms-of-use" rel="nofollow" target="_blank">
+                Terms of Use</a></li>
+<li><a href="https://www.bloodhorse.com/horse-racing/about-us/privacy-policy" rel="nofollow" target="_blank">
+                Privacy Policy</a> </li>
+</ul>
+</div>
+<div class="contentBlock">
+<h4>
+            Services</h4>
+<ul>
+<li><a class="ft-subscribe" href="https://www.bloodhorse.com/subscribe" target="_blank">Subscribe</a></li>
+<li><a class="ft-newsletters" href="https://www.bloodhorse.com/horse-racing/newsletters/sign-up?source=footer" target="_blank">
+                Newsletters</a></li>
+<li><a class="ft-newsletters" href="https://www.bloodhorse.com/horse-racing/newsletters/sign-up?source=footer" target="_blank">
+                News Alerts</a></li>
+<li><a class="ft-facebook" href="https://www.facebook.com/TheBloodHorse" target="_blank">Facebook</a></li>
+<li><a class="ft-twitter" href="https://x.com/BloodHorse" target="_blank">Twitter</a></li>
+</ul>
+</div>
+<div class="copyright">
+        Copyright © 2025 Blood-Horse LLC. All rights reserved
+        internationally.</div>
+</div>
+</div>
+<script data-domain="bloodhorse.com" defer="" src="https://plausible.io/js/script.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-48M8TXQHRZ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-48M8TXQHRZ');
+</script><script src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<div class="fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<script>	(function (d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=131856666853481&autoLogAppEvents=1';
+	fjs.parentNode.insertBefore(js, fjs);
+} (document, 'script', 'facebook-jssdk'));</script>
+<script async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=588428740" type="text/javascript"></script>
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'PHPBIIOMHLLGPBCDDOILCKMCDICIJBFOLKCHLDJHCFPOIHDLLIHENPILNCLCEGLGJCABKNBDAALPJACPBEFAOOIDAAJONPNINJPFBGLJICJBJMFOBJBIOPLIIPLNFGNO',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0195914564aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;'+';';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fwww.bloodhorse.com" style="display: none;"></iframe><iframe allowfullscreen="true" allowtransparency="true" frameborder="0" id="rufous-sandbox" scrolling="no" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>
