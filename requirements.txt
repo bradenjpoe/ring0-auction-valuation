@@ -3,8 +3,10 @@ duckdb
 numpy
 seaborn
 plotly
-ipywidgets
 ipython
 ipykernel
 notebook
 voila
+jupyterlab==4.1.6
+ipywidgets==8.1.1
+jupyterlab_widgets==3.0.10
