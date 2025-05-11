@@ -18,4 +18,4 @@ WORKDIR /app
 EXPOSE 10000
 
 # Run voila
-CMD ["voila", "notebooks/hosted_v1.ipynb", "--port=10000", "--no-browser", "--strip_sources=False", "--Voila.ip=0.0.0.0", "--debug"]
+CMD ["voila", "notebooks/Untitled1.ipynb", "--port=10000", "--no-browser", "--strip_sources=False", "--Voila.ip=0.0.0.0", "--debug"]
