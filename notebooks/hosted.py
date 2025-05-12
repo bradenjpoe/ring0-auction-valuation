@@ -73,6 +73,12 @@ price_range = st.slider("Price range:", price_min, price_max,
                          (price_min, price_max),
                          key="range3")
 loP, hiP = price_range
+year_min = int(only_sold.sale_year.min())
+year_max = int(only_sold.sale_year.max())
+year_range = st.slider("Sale Year range:", year_min, year_max,
+                         (year_min, year_max),
+                         key="range4")
+loY, hiY = year_range
 selected_sires = st.multiselect("Select sires:", sire_options, default=None, key='options2')
 
 df3 = only_sold[["Sire", "Dam", "Description",
@@ -82,6 +88,8 @@ if selected_sires:
     df3 = df3[df3["Sire"].isin(selected_sires)]
 if price_range: 
     df3 = df3[(df3.Price.between(loP, hiP))]
+if year_range:
+    df3 = df3[(df3.sale_year.between(loY, hiY))]  
 
 st.dataframe(df3)
 # corr_by_year = (
