@@ -26,7 +26,7 @@ render_md("yearly_sales.md")
 data_toggle = st.radio("Data: (box plot)", ["Excluding >95th Percentile", "Full"])
 all_sires = sorted(only_sold["Sire"].unique())
 sire_options = [s for s in all_sires]
-selected_sires = st.multiselect("Select sires:", sire_options, default=None)
+selected_sires = st.multiselect("Select sires:", sire_options, default=None, key="options1")
 
 df = only_sold
 if data_toggle.startswith("Excluding"):
@@ -67,14 +67,21 @@ st.markdown("---")
 # Correlation Plot
 st.header("Line Plot: Correlation Over Years Active")
 render_md("correlation.md")
-foal_min_2 = st.number_input("Foals per year ≥", value=10, step=1, key="foal2")
-years_active_min_2 = int(sire_data.years_active.min())
-years_active_max_2 = int(sire_data.years_active.max())
-year_range_2 = st.slider("Years active range:", years_active_min_2, years_active_max_2,
-                         (years_active_min_2, years_active_max_2),
-                         key="range2")
-lo_2, hi_2 = year_range_2
-df3 = sire_data[(sire_data.foals_per_year >= foal_min_2) & (sire_data.years_active.between(lo_2, hi_2))]
+price_min = int(only_sold.Price.min())
+price_max = int(only_sold.Price.max())
+price_range = st.slider("Price range:", price_min, price_max,
+                         (price_min, price_max),
+                         key="range3")
+loP, hiP = price_range
+selected_sires = st.multiselect("Select sires:", sire_options, default=None, key='options2')
+
+df3 = only_sold[["Sire", "Dam", "Description",
+                 "Price", "Sex", "Color", "sale_year",
+                 "Session", "Hip", "Purchaser", "PropertyLine1"]]
+if selected_sires:
+    df3 = df3[df3["Sire"].isin(selected_sires)]
+if price_range: 
+    df3 = df3[(df3.Price.between(loP, hiP))]
 
 st.dataframe(df3)
 # corr_by_year = (
