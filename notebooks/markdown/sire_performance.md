@@ -1,5 +1,3 @@
-### Sire Performance
-
 "Gini" is traditionally used in research for things like income inequality because it captures how similar or different members of a population are from one another. A gini of 0.0 indicates the highest degree of similarity meaning all outcomes (or in this case yearling sales prices) are identical - if a sire's progeny sold in the range of 5k to 5M the sire would receive close to a 1.0 gini (extreme volatility). Conversely, a gini of 0.0 indicates zero variation for a sire's yearling prices. 
 
 If a sire has a relatively high gini and a relatively low median price, that could indicate that the sire is more risky since the potential sales price is more volatile and is lower in general (see: Improbable). The opposite is true for Into Mischief whose low gini is matched by the highest median price. There's obvious bias here because high performing sires have their choice of optimal mares, but directionally I think the trend holds. If you want to see how younger sires are performing, then change the "Years active" slider.

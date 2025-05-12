@@ -16,12 +16,8 @@ st.title("Keeneland Yearling Sales Dashboard")
 render_md("overview.md")
 
 # Shared inputs
-all_sires = sorted(only_sold["Sire"].unique())
-sire_filter = st.text_input("Search sire:")
-sire_options = [s for s in all_sires if sire_filter.lower() in s.lower()]
-selected_sires = st.multiselect("Select sires:", sire_options, default=sire_options[:3])
 
-data_toggle = st.radio("Data: (box plot)", ["Excluding >95th Percentile", "Full"])
+
 
 foal_min = st.number_input("Foals per year ≥", value=10, step=1)
 years_active_min = int(sire_data.years_active.min())
@@ -33,6 +29,12 @@ st.markdown("---")
 # Yearly Sales Data Box Plot
 st.header("Box Plot: Yearly Sales by Sire")
 render_md("yearly_sales.md")
+data_toggle = st.radio("Data: (box plot)", ["Excluding >95th Percentile", "Full"])
+all_sires = sorted(only_sold["Sire"].unique())
+sire_filter = st.text_input("Search sire:")
+sire_options = [s for s in all_sires if sire_filter.lower() in s.lower()]
+selected_sires = st.multiselect("Select sires:", sire_options, default=sire_options[:3])
+
 df = only_sold
 if data_toggle.startswith("Excluding"):
     df = df[df.Price <= df.Price.quantile(.95)]
@@ -50,6 +52,7 @@ st.markdown("---")
 
 # Sire Performance Scatter Plot
 st.header("Scatter Plot: Sire Performance")
+render_md("sire_performance.md")
 lo, hi = year_range
 df2 = sire_data[(sire_data.foals_per_year >= foal_min) & (sire_data.years_active.between(lo, hi))]
 
@@ -65,6 +68,7 @@ st.markdown("---")
 
 # Correlation Plot
 st.header("Line Plot: Correlation Over Years Active")
+render_md("correlation.md")
 df3 = sire_data[(sire_data.foals_per_year >= foal_min) & (sire_data.years_active.between(lo, hi))]
 
 corr_by_year = (

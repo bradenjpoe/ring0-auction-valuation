@@ -1,5 +1,3 @@
-## Explanations of Visuals + Notes
-### Yearly Sales Data
 - Search for a sire and select
 - Clear selections with CTRL+"click" or CMD+"click" on each sires name or by deleting the typed entry
 
