@@ -53,7 +53,15 @@ years_active_max_1 = int(sire_data.years_active.max())
 year_range_1 = st.slider("Years active range:", years_active_min_1, years_active_max_1,
                          (years_active_min_1, years_active_max_1), key="range1")
 lo_1, hi_1 = year_range_1
+# Sires
+all_sires2 = sorted(sire_data["Sire"].unique())
+sire_options2 = [s for s in all_sires2]
+selected_sires2 = st.multiselect("Select sires:", sire_options2, default=None, key='options3')
+
 df2 = sire_data[(sire_data.foals_per_year >= foal_min_1) & (sire_data.years_active.between(lo_1, hi_1))]
+
+if selected_sires2:
+    df2 = df2[df2["Sire"].isin(selected_sires2)]
 
 fig2 = px.scatter(
     df2.reset_index(), x="gini_coef", y="median_price",
@@ -88,7 +96,7 @@ loY, hiY = year_range
 # Sires
 all_sires1 = sorted(all_data["Sire"].unique())
 sire_options1 = [s for s in all_sires1]
-selected_sires = st.multiselect("Select sires:", sire_options1, default=None, key='options2')
+selected_sires1 = st.multiselect("Select sires:", sire_options1, default=None, key='options2')
 
 # Sales Status
 status = sorted(all_data["status"].unique())
@@ -99,7 +107,7 @@ df3 = all_data[["Sire", "Dam", "Description",
                  "Price", "Sex", "Color", "sale_year",
                  "Session", "Hip", "Purchaser", "PropertyLine1", "status"]]
 if selected_sires:
-    df3 = df3[df3["Sire"].isin(selected_sires)]
+    df3 = df3[df3["Sire"].isin(selected_sires1)]
 if price_range: 
     # Split data: apply price filter *only* to Sold, keep others untouched
     sold_mask = (df3["status"] == "Sold")
