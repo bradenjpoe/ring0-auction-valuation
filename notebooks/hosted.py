@@ -106,8 +106,9 @@ selected_statuses = st.multiselect("Select sales status:", status_options, defau
 df3 = all_data[["Sire", "Dam", "Description",
                  "Price", "Sex", "Color", "sale_year",
                  "Session", "Hip", "Purchaser", "PropertyLine1", "status"]]
-if selected_sires:
+if selected_sires1:
     df3 = df3[df3["Sire"].isin(selected_sires1)]
+    
 if price_range: 
     # Split data: apply price filter *only* to Sold, keep others untouched
     sold_mask = (df3["status"] == "Sold")
