@@ -75,7 +75,8 @@ price_range = st.slider("Price range:", price_min, price_max,
 loP, hiP = price_range
 year_min = int(only_sold.sale_year.min())
 year_max = int(only_sold.sale_year.max())
-year_range = st.number_input("Sale Year range:", year_min, year_max, step=1,
+year_range = st.slider("Sale Year range:", year_min, year_max,
+                         (year_min, year_max),
                          key="range4")
 loY, hiY = year_range
 selected_sires = st.multiselect("Select sires:", sire_options, default=None, key='options2')
