@@ -32,6 +32,7 @@ st.markdown("---")
 
 # Yearly Sales Data Box Plot
 st.header("Box Plot: Yearly Sales by Sire")
+render_md("yearly_sales.md")
 df = only_sold
 if data_toggle.startswith("Excluding"):
     df = df[df.Price <= df.Price.quantile(.95)]
