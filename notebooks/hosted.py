@@ -11,6 +11,9 @@ def render_md(filename):
 only_sold = pd.read_csv("notebooks/only_sold.csv")
 sire_data = pd.read_csv("notebooks/sire_data.csv")
 
+# Widen layout
+st.set_page_config(layout="wide")
+
 # Markdown Introduction
 st.title("Keeneland Yearling Sales Dashboard")
 render_md("overview.md")
