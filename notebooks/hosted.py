@@ -15,15 +15,6 @@ sire_data = pd.read_csv("notebooks/sire_data.csv")
 st.title("Keeneland Yearling Sales Dashboard")
 render_md("overview.md")
 
-# Shared inputs
-
-
-
-foal_min = st.number_input("Foals per year ≥", value=10, step=1)
-years_active_min = int(sire_data.years_active.min())
-years_active_max = int(sire_data.years_active.max())
-year_range = st.slider("Years active range:", years_active_min, years_active_max, (years_active_min, years_active_max))
-
 st.markdown("---")
 
 # Yearly Sales Data Box Plot
@@ -52,8 +43,12 @@ st.markdown("---")
 # Sire Performance Scatter Plot
 st.header("Scatter Plot: Sire Performance")
 render_md("sire_performance.md")
-lo, hi = year_range
-df2 = sire_data[(sire_data.foals_per_year >= foal_min) & (sire_data.years_active.between(lo, hi))]
+foal_min_1 = st.number_input("Foals per year ≥", value=10, step=1)
+years_active_min_1 = int(sire_data.years_active.min())
+years_active_max_1 = int(sire_data.years_active.max())
+year_range_1 = st.slider("Years active range:", years_active_min_1, years_active_max_1, (years_active_min_1, years_active_max_1))
+lo_1, hi_1 = year_range_1
+df2 = sire_data[(sire_data.foals_per_year >= foal_min_1) & (sire_data.years_active.between(lo_1, hi_1))]
 
 fig2 = px.scatter(
     df2.reset_index(), x="gini_coef", y="median_price",
@@ -68,7 +63,12 @@ st.markdown("---")
 # Correlation Plot
 st.header("Line Plot: Correlation Over Years Active")
 render_md("correlation.md")
-df3 = sire_data[(sire_data.foals_per_year >= foal_min) & (sire_data.years_active.between(lo, hi))]
+foal_min_2 = st.number_input("Foals per year ≥", value=10, step=1)
+years_active_min_2 = int(sire_data.years_active.min())
+years_active_max_2 = int(sire_data.years_active.max())
+year_range_2 = st.slider("Years active range:", years_active_min_2, years_active_max_2, (years_active_min_2, years_active_max_2))
+lo_2, hi_2 = year_range_2
+df3 = sire_data[(sire_data.foals_per_year >= foal_min_2) & (sire_data.years_active.between(lo_2, hi_2))]
 
 corr_by_year = (
     df3.groupby("years_active")
