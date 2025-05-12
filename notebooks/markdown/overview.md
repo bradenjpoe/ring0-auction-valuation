@@ -1,5 +1,5 @@
 ## Overview
-I included 3 interactive visuals at the bottom of this page below based on Keeneland Sept Yearling sales data from 2018-2024 which can be activated by clicking icons in the "View" button - note that nothing will appear until you select an initial visual. *Yearly Sales Data* shows how sires have performed YoY - the other two have more detailed explanations. I'll do more work on individual purchasers and sellers at auctions next while also cleaning and integrating OBS breeze data. 
+I included 3 interactive visuals at the bottom of this page below based on Keeneland Sept Yearling sales data from 2018-2024. *Yearly Sales Data* shows how sires have performed YoY while the interactive data table allows you to look at all line-item sales - the middle chart will have a more in depth explanation. I'll do more work on individual purchasers and sellers at auctions next while also cleaning and integrating OBS breeze data. 
 
 I'd like to build a model that can estimate the price of a 2yo in the OBS sale based on their breeze time along with yearling sales prices, family performance, etc. The OBS results could then be fed back into another model predicting yearling sales, which creates a constantly improving feedback loop that adjusts in real-time. 
 

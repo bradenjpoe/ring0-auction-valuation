@@ -10,6 +10,7 @@ def render_md(filename):
 # Load data
 only_sold = pd.read_csv("notebooks/only_sold.csv")
 sire_data = pd.read_csv("notebooks/sire_data.csv")
+all_data = pd.read_csv("notebooks/all_data.csv")
 
 # Widen layout
 st.set_page_config(layout="wide")
@@ -65,31 +66,46 @@ st.plotly_chart(fig2)
 st.markdown("---")
 
 # Correlation Plot
-st.header("Line Plot: Correlation Over Years Active")
-render_md("correlation.md")
+st.header("Interative Data Table")
+render_md("data_table.md")
+
+# Price range
 price_min = int(only_sold.Price.min())
 price_max = int(only_sold.Price.max())
 price_range = st.slider("Price range:", price_min, price_max,
                          (price_min, price_max),
                          key="range3")
 loP, hiP = price_range
+
+# Year range
 year_min = int(only_sold.sale_year.min())
 year_max = int(only_sold.sale_year.max())
 year_range = st.slider("Sale Year range:", year_min, year_max,
                          (year_min, year_max),
                          key="range4")
 loY, hiY = year_range
-selected_sires = st.multiselect("Select sires:", sire_options, default=None, key='options2')
 
-df3 = only_sold[["Sire", "Dam", "Description",
+# Sires
+all_sires1 = sorted(all_data["Sire"].unique())
+sire_options1 = [s for s in all_sires1]
+selected_sires = st.multiselect("Select sires:", sire_options1, default=None, key='options2')
+
+# Sales Status
+status = sorted(all_data["status"].unique())
+status_options = [s for s in status]
+selected_statuses = st.multiselect("Select sales status:", status_options, default=None, key='options3')
+
+df3 = all_data[["Sire", "Dam", "Description",
                  "Price", "Sex", "Color", "sale_year",
-                 "Session", "Hip", "Purchaser", "PropertyLine1"]]
+                 "Session", "Hip", "Purchaser", "PropertyLine1", "status"]]
 if selected_sires:
     df3 = df3[df3["Sire"].isin(selected_sires)]
 if price_range: 
     df3 = df3[(df3.Price.between(loP, hiP))]
 if year_range:
     df3 = df3[(df3.sale_year.between(loY, hiY))]  
+if selected_statuses: 
+    df3 = df3[df3["status"].isin(selected_statuses)]
 
 st.dataframe(df3)
 # corr_by_year = (
