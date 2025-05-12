@@ -101,7 +101,7 @@ df3 = all_data[["Sire", "Dam", "Description",
 if selected_sires:
     df3 = df3[df3["Sire"].isin(selected_sires)]
 if price_range: 
-    df3 = df3[(df3.Price.between(loP, hiP))]
+    df3 = df3[(df3.status=='Sold') & (df3.Price.between(loP, hiP))]
 if year_range:
     df3 = df3[(df3.sale_year.between(loY, hiY))]  
 if selected_statuses: 
