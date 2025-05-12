@@ -101,7 +101,12 @@ df3 = all_data[["Sire", "Dam", "Description",
 if selected_sires:
     df3 = df3[df3["Sire"].isin(selected_sires)]
 if price_range: 
-    df3 = df3[(df3.status=='Sold') & (df3.Price.between(loP, hiP))]
+    # Split data: apply price filter *only* to Sold, keep others untouched
+    sold_mask = (df3["status"] == "Sold")
+    df3_sold = df3[sold_mask & df3["Price"].between(loP, hiP)]
+    df3_other = df3[~sold_mask]
+    df3 = pd.concat([df3_sold, df3_other])
+
 if year_range:
     df3 = df3[(df3.sale_year.between(loY, hiY))]  
 if selected_statuses: 
