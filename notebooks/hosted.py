@@ -101,7 +101,7 @@ selected_sires1 = st.multiselect("Select sires:", sire_options1, default=None, k
 # Sales Status
 status = sorted(all_data["status"].unique())
 status_options = [s for s in status]
-selected_statuses = st.multiselect("Select sales status:", status_options, default=None, key='options3')
+selected_statuses = st.multiselect("Select sales status:", status_options, default=None, key='options4')
 
 df3 = all_data[["Sire", "Dam", "Description",
                  "Price", "Sex", "Color", "sale_year",
