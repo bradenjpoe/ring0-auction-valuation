@@ -31,9 +31,8 @@ st.header("Box Plot: Yearly Sales by Sire")
 render_md("yearly_sales.md")
 data_toggle = st.radio("Data: (box plot)", ["Excluding >95th Percentile", "Full"])
 all_sires = sorted(only_sold["Sire"].unique())
-sire_filter = st.text_input("Search sire:")
-sire_options = [s for s in all_sires if sire_filter.lower() in s.lower()]
-selected_sires = st.multiselect("Select sires:", sire_options, default=sire_options[:3])
+sire_options = [s for s in all_sires]
+selected_sires = st.multiselect("Select sires:", sire_options, default=None)
 
 df = only_sold
 if data_toggle.startswith("Excluding"):
