@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-only_sold = pd.read_csv("only_sold.csv")
-sire_data = pd.read_csv("sire_data.csv")
+only_sold = pd.read_csv("notebooks/only_sold.csv")
+sire_data = pd.read_csv("notebooks/sire_data.csv")
 
 # UI Controls
 st.title("Keeneland Yearling Sales Dashboard")
