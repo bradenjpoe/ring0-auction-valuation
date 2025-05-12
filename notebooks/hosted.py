@@ -43,10 +43,11 @@ st.markdown("---")
 # Sire Performance Scatter Plot
 st.header("Scatter Plot: Sire Performance")
 render_md("sire_performance.md")
-foal_min_1 = st.number_input("Foals per year ≥", value=10, step=1)
+foal_min_1 = st.number_input("Foals per year ≥", value=10, step=1, key="foal1")
 years_active_min_1 = int(sire_data.years_active.min())
 years_active_max_1 = int(sire_data.years_active.max())
-year_range_1 = st.slider("Years active range:", years_active_min_1, years_active_max_1, (years_active_min_1, years_active_max_1))
+year_range_1 = st.slider("Years active range:", years_active_min_1, years_active_max_1,
+                         (years_active_min_1, years_active_max_1), key="range1")
 lo_1, hi_1 = year_range_1
 df2 = sire_data[(sire_data.foals_per_year >= foal_min_1) & (sire_data.years_active.between(lo_1, hi_1))]
 
@@ -63,10 +64,12 @@ st.markdown("---")
 # Correlation Plot
 st.header("Line Plot: Correlation Over Years Active")
 render_md("correlation.md")
-foal_min_2 = st.number_input("Foals per year ≥", value=10, step=1)
+foal_min_2 = st.number_input("Foals per year ≥", value=10, step=1, key="foal2")
 years_active_min_2 = int(sire_data.years_active.min())
 years_active_max_2 = int(sire_data.years_active.max())
-year_range_2 = st.slider("Years active range:", years_active_min_2, years_active_max_2, (years_active_min_2, years_active_max_2))
+year_range_2 = st.slider("Years active range:", years_active_min_2, years_active_max_2,
+                         (years_active_min_2, years_active_max_2),
+                         key="range2")
 lo_2, hi_2 = year_range_2
 df3 = sire_data[(sire_data.foals_per_year >= foal_min_2) & (sire_data.years_active.between(lo_2, hi_2))]
 
