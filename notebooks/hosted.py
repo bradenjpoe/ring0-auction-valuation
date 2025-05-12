@@ -66,7 +66,7 @@ st.plotly_chart(fig2)
 st.markdown("---")
 
 # Correlation Plot
-st.header("Interative Data Table")
+st.header("Interactive Data Table")
 render_md("data_table.md")
 
 # Price range
