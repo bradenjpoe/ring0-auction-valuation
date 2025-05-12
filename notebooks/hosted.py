@@ -76,18 +76,19 @@ year_range_2 = st.slider("Years active range:", years_active_min_2, years_active
 lo_2, hi_2 = year_range_2
 df3 = sire_data[(sire_data.foals_per_year >= foal_min_2) & (sire_data.years_active.between(lo_2, hi_2))]
 
-corr_by_year = (
-    df3.groupby("years_active")
-      .apply(lambda g: g["gini_coef"].corr(g["median_price"]))
-      .dropna()
-      .reset_index(name="corr")
-      .sort_values("years_active")
-)
+st.dataframe(df3)
+# corr_by_year = (
+#     df3.groupby("years_active")
+#       .apply(lambda g: g["gini_coef"].corr(g["median_price"]))
+#       .dropna()
+#       .reset_index(name="corr")
+#       .sort_values("years_active")
+# )
 
-fig3 = px.line(
-    corr_by_year, x="years_active", y="corr",
-    markers=True,
-    title="Correlation (gini coef ↔ median price) by years active"
-)
-fig3.update_layout(yaxis_title="Correlation [-1,1]", xaxis_title="Years active")
-st.plotly_chart(fig3)
+# fig3 = px.line(
+#     corr_by_year, x="years_active", y="corr",
+#     markers=True,
+#     title="Correlation (gini coef ↔ median price) by years active"
+# )
+# fig3.update_layout(yaxis_title="Correlation [-1,1]", xaxis_title="Years active")
+# st.plotly_chart(fig3)
