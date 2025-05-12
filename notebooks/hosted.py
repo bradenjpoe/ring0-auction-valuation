@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 def render_md(filename):
-    path = f"notebooks/{filename}"
+    path = f"notebooks/markdown/{filename}"
     with open(path, "r") as f:
         st.markdown(f.read())
 
